@@ -10,4 +10,4 @@
 
 #### Используемые объекты
 
-* [Question](../Question.md)
+* [Question](./Question.md)

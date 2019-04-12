@@ -10,4 +10,4 @@
 
 #### Используемые объекты
 
-* [Mission](../Mission.md)
+* [Mission](./Mission.md)

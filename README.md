@@ -7,36 +7,17 @@ sessionid, полученный при логине необходимо зап�
 
 #### Список функций API
 
-* Questions
-	* [Get question](./GetQuestion)
-    * [Get questions](./GetQuestions)
-    * [Get question statistics](./GetQuestionStatistics)
-* Categories
-	* [Get category](./GetCategory)
-	* [Get categories](./GetCategories)
-* Offers
-	* [Get offers](./GetOffers)
-	* [Get offer purchases](./GetOfferPurchases)
-* Missions
-	* [Get missions](./GetMissions)
-	* [Get mission rating](./GetMissionRating)
-	* [Get mission rewards](./GetMissionRewards)
+* [Get questions](./GetQuestions.md)
+* [Get question statistics](./GetQuestionStatistics.md)
+* [Get offers](./GetOffers.md)
+* [Get offer purchases](./GetOfferPurchases.md)
+* [Get missions](./GetMissions.md)
+* [Get mission rating](./GetMissionRating.md)
+* [Get mission rewards](./GetMissionRewards.md)
 
 #### Список объектов
-* [User](./User)
-* [Game](./Game)
-* [Image](./Image)
-* [Friend](./Friend)
-* [Mission](./Mission)
-* [Mission attempt](./MissionAttempt)
-* [Achievement](./Achievement)
-* [AchievementProgress](./AchievementProgress)
-* [Gameround](./Gameround)
-* [Answer](./Answer)
-* [AnswerOption](./AnswerOption)
-* [Question](./question.md)
-* [QuestionInstance](./QuestionInstance)
-* [Category](./Category)
-* [Notification](./Notification)
-* [Offer](./Offer)
-* [Purchase](./Purchase)
+* [Mission](./Mission.md)
+* [AnswerOption](./AnswerOption.md)
+* [Question](./Question.md)
+* [Offer](./Offer.md)
+* [Purchase](./Purchase.md)

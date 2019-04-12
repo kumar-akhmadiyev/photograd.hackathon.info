@@ -7,6 +7,7 @@ sessionid, полученный при логине необходимо зап�
 
 #### Список функций API
 
+* [User login](./UserLogin.md)
 * [Get questions](./GetQuestions.md)
 * [Get question statistics](./GetQuestionStatistics.md)
 * [Get offers](./GetOffers.md)

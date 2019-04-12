@@ -1,6 +1,6 @@
 # User Login
 #### METHOD: POST 
-#### URI: /api/user_login/
+#### URI: /hackathon/user_login/
 
 Метод для логина.
 
@@ -10,13 +10,6 @@ sessionid возвращаемый в ответе - это идентифика
 
     "email" : string
     "password" : string
-
-#### Выходные данные
-    
-    "auth": {
-        "sessionid" : string
-    }        
-
 
 #### Выходные данные
     

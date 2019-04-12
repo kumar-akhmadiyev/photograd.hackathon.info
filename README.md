@@ -34,7 +34,7 @@ sessionid, полученный при логине необходимо зап�
 * [Gameround](./Gameround)
 * [Answer](./Answer)
 * [AnswerOption](./AnswerOption)
-* [Question](./Question)
+* [Question](./question)
 * [QuestionInstance](./QuestionInstance)
 * [Category](./Category)
 * [Notification](./Notification)

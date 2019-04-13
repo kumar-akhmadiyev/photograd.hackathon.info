@@ -14,7 +14,7 @@
 С помощью GET запросов можно получить списки [вопросов](./GetQuestions.md), [предложений](./GetOffers.md) и [миссий](./GetMissions.md).
 Затем, используя id объектов, можно получать по ним [статистику вопроса](./GetQuestionStatistics.md), [список покупок предложения](./GetOfferPurchases.md), [рейтинг миссии](./GetMissionRating.md) и [список наград миссии](./GetMissionRewards.md)
 
-Адрес сервера : https://photograd.kz
+Адрес сервера : http://photograd.kz
 
 
 #### Список функций API
